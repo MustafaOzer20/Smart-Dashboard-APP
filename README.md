@@ -58,28 +58,28 @@ note: if you want to run this project. Add your api_key in this file: "/lib/core
 ## 1. Smart Devices
 <div class="row" style="display: flex;flex-wrap: wrap;padding: 0 4px;">
   <div class="column" style="flex: 50%;padding: 0 4px;">
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/devices/devices.jpeg" width=200>
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/devices/device_create.jpeg" width=200>
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/devices/devices_view.jpeg" width=200>
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/devices/device_detail.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/devices/devices.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/devices/device_create.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/devices/devices_view.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/devices/device_detail.jpeg" width=200>
   </div>
 </div>
 
 ## 2. Routines
 <div class="row" style="display: flex;flex-wrap: wrap;padding: 0 4px;">
   <div class="column" style="flex: 50%;padding: 0 4px;">
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/routines/routine_create.jpeg" width=200>
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/routines/routine_view.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/routines/routine_create.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/routines/routine_view.jpeg" width=200>
   </div>
 </div>
 
 ## 3. Services
 <div class="row" style="display: flex;flex-wrap: wrap;padding: 0 4px;">
   <div class="column" style="flex: 50%;padding: 0 4px;">
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/services/services.jpeg" width=200>
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/services/service_create.jpeg" width=200>
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/services/services_view.jpeg" width=200>
-    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/main/screenshots/services/services_detail.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/services/services.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/services/service_create.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/services/services_view.jpeg" width=200>
+    <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/tree/screenshots/services/services_detail.jpeg" width=200>
   </div>
 </div>
 
