@@ -1,6 +1,9 @@
 # Smart Dashboard APP
 An app you can use to create routines for your smart devices that help you in your daily.
 
+note: if you want to run this project. Add your api_key in this file: "/lib/core/models/services.dart".
+<img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/testRepo/blob/main/screenshots/api_key.jpeg" width=200>
+
 
 #  _Features_
 
