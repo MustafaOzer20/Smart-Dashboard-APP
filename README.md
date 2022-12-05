@@ -2,9 +2,9 @@
 An app you can use to create routines for your smart devices that help you in your daily.
 
 note: if you want to run this project. Add your api_key in this file: "/lib/core/models/services.dart".
-#
+<br>
 <img style="margin-top: 8px;vertical-align: middle;" src="https://github.com/MustafaOzer20/Smart-Dashboard-APP/blob/master/screenshots/api_key.png">
-
+#
 
 #  _Features_
 
