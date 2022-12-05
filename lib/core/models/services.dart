@@ -15,7 +15,8 @@ class Weather{
   Weather(this.last_updated, this.city, this.temperature, this.condution, this.iconUrl, this.humidity, this.wind_kph);
 
   static Future<dynamic> getWeather(String city)async{
-    String apiUri = "http://api.weatherapi.com/v1/current.json?key=c33a0b3a7219405d92d81537220312&q=${city}&aqi=no";
+    String apiKey = "YOUR_API_KEY";
+    String apiUri = "http://api.weatherapi.com/v1/current.json?key=${apiKey}&q=${city}&aqi=no";
     var response = json.decode((await client.get(Uri.parse(apiUri))).body);
     if(response["error"] != null){
       return response['error']['message'];
